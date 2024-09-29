@@ -10,11 +10,11 @@ You can check out the project at this link : **https://bilingual-extractor-ocr.s
 
 ![image](https://github.com/user-attachments/assets/290fdf70-1d2d-4541-a634-379caaf7da39)
 
-- *Text Extraction:*
+## ***Text Extraction:***
 
 ![image](https://github.com/user-attachments/assets/b4a244be-4a06-4e41-a250-7804c4fffe43)
 
-- *Entity Recognition:*
+## ***Entity Recognition:***
 
 ![image](https://github.com/user-attachments/assets/03ff31d2-821b-4c3d-a0a0-d985cdd734dc)
 
