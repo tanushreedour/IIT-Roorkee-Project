@@ -65,11 +65,11 @@ Before running the application, ensure you have the following:
 
 3. **Create a .env file in the root directory and add the following environment variables:**
 
-  ```bash
-  AI_SERVICE_ENDPOINT=your_azure_vision_endpoint
-  AI_SERVICE_KEY=your_azure_vision_api_key
-  GEMINI_API_KEY=your_gemini_api_key
-  ```
+   ```bash
+   AI_SERVICE_ENDPOINT=your_azure_vision_endpoint
+   AI_SERVICE_KEY=your_azure_vision_api_key
+   GEMINI_API_KEY=your_gemini_api_key
+   ```
 
 4. **Run the application:**
 
